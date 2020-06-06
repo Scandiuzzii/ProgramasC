@@ -1,0 +1,16 @@
+1) Faça uma função que gera uma matriz de inteiros quadrada de ordem n, com n é menor ou igual a 10, onde cada elemento da matriz é um número inteiro diferente, na ordem crescente.
+Exemplo:
+n=2:
+|1 2|
+|3 4|
+
+n=3 :
+|1 2 3|
+|4 5 6|
+|7 8 9|
+
+2) Faça uma função que calcula a potência de uma matriz [protótipo: void powMat(double A[MAX][MAX], int n, int expoente); ]
+
+3) Faça uma função que calcula a pseudo-inversa, quando existir, de uma matriz retangular de ordem m por n ou quadrada de ordem n.
+
+4) Faça uma função que calcula a inversa de uma matriz de ordem n utilizando a matriz adjunta ( matriz adjunta = transposta da matriz dos cofatores).
